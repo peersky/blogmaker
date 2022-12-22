@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>[title]: Peersky website</title>
+  <link>blog.peersky.xyz/</link>
+  <description>[title]: Peersky website</description>
+  <image>
+      <url>[icon]: http://vitalik.ca/images/icon.png</url>
+      <title>[title]: Peersky website</title>
+      <link>blog.peersky.xyz/</link>
+  </image>
+
+<item>
+<title>Hello world</title>
+<link>blog.peersky.xyz/general/2020/10/24/hello2.html</link>
+<guid>blog.peersky.xyz/general/2020/10/24/hello2.html</guid>
+<pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+</channel>
+</rss>
